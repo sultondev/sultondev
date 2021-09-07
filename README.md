@@ -26,7 +26,7 @@
 <a href="https://twitter.com/sultondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sultondev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/sultonkhon-oblokulov-79916b201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sultonkhon-oblokulov-79916b201" height="30" width="40" /></a>
 <a href="https://instagram.com/sultondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultondev" height="30" width="40" /></a>
-<a href="https://dribbble.com/sultondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sultondev" height="30" width="40" /></a>
+<a href="https://dribbble.com/sultondeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sultondev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
