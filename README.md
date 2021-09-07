@@ -1,4 +1,4 @@
-<img src="my-logo.png" style="width: 400px; height: 400px; border-radius: 100px; display: block;  text-align: center;">
+<img src="logo-1.png" style="width: 100%; height: 100%;">
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
