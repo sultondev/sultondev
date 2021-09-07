@@ -46,6 +46,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h4 align="left">Github informations:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultondev&show_icons=true&locale=en&layout=compact" alt="sultondev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultondev&show_icons=true&locale=en" alt="sultondev" /></p>
