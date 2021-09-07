@@ -1,4 +1,4 @@
-<img src="my-logo.png" width="800px" height="800px">
+<img src="my-logo.png" style="width: 400px; height: 400px; border-radius: 50%;">
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
