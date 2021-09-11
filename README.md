@@ -51,4 +51,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultondev&show_icons=true&locale=en" alt="sultondev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultondev&" alt="sultondev" /></p>
