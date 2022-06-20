@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
-- 🔭 I’m currently working on [todo-list](https://todo-list-y.vercel.app/)
+- 🔭 I’m currently working on [Blog App](https://learn-app-blog.vercel.app/)
 
-- 🌱 I’m currently learning **React JS, JavaScript**
+- 🌱 I’m currently learning **Tailwindcss, Material UI, Firebase**
 
 - 👯‍♂️ I'm looking to collaborate on [RS School](https://docs.rs.school/#/)
 
