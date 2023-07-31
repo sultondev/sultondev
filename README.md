@@ -1,4 +1,3 @@
-<img src="logo-1.png" style="width: 100%; height: 100%;">
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
