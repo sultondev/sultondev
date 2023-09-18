@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Blog App](https://learn-app-blog.vercel.app/)
+- 🔭 I’m currently a Software Engineer at [East Telecom](https://etc.uz/)
 
-- 🌱 I’m currently learning **Tailwindcss, Material UI, Firebase**
+- 👨‍💻 All of my projects are available on [Github Repo](https://github.com/sultondev?tab=repositories)
 
-- 👯‍♂️ I'm looking to collaborate on [RS School](https://docs.rs.school/#/)
+- 💬 Ask me about **Nuxt JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sultondev/portfolio](https://github.com/sultondev/portfolio)
+- 📫 How to reach me **sultondeveloper@gmail.com** | [telegram](https://t.me/sultondev/) | [portfolio](https://sulton.dev/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/sultondev_english/](https://www.instagram.com/sultondev_english/)
+- 📄 Know about my experiences [portfolio](https://sulton.dev/)
 
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **sultondeveloper@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/sultondev/](https://github.com/sultondev/)
-
-- ⚡ Fact **I'm going to do my best to enter in EPAM systems**
+- ⚡ Fact **Talent is countless hours of hard work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
