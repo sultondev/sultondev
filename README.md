@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultonkhon</h1>
 <h3 align="center">A frontend developer from Uzbekistan. I reside in Uzbekistan</h3>
 
-- 🔭 I’m currently a Software Engineer at [East Telecom](https://etc.uz/)
+- 🔭 I’m currently a Software Engineer at [AX TECHNOLOGY]([https://etc.uz/](https://axtechnology.uz/))
 
 - 👨‍💻 All of my projects are available on [Github Repo](https://github.com/sultondev?tab=repositories)
 
